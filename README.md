@@ -1,1 +1,1 @@
-# Hi there 
+# Hi there <img src="https://github.com/Miguel-S-T/profile_presentation/blob/main/assets/wave.gif" width="30px">
