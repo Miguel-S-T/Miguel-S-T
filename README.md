@@ -13,4 +13,9 @@
     <a target="_blank" href="mailto:this.mig.tome@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23B0BEC5.svg?style=for-the-badge&logo=gmail&logoColor=%23D93025"/></a>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Miguel-S-T&base=1000&label=Profile%20views&color=blue&style=flat-square)
+#
+
+<div align="center">
+ ![Profile views](https://komarev.com/ghpvc/?username=Miguel-S-T&base=1000&label=Profile%20views&color=blue&style=flat-square)
+ </div>
+
