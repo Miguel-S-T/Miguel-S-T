@@ -15,5 +15,5 @@
 </br>
 </br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Miguel-S-T&base=1000&label=Profile%20views&color=blue&style=flat-square" alt="counter" />
+<img src="https://komarev.com/ghpvc/?username=Miguel-S-T&base=1000&label=Profile%20views&color=blue&style=flat-square" alt="view counter" />
  </div>
