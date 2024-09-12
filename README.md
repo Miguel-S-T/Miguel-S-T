@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Miguel <img src="https://github.com/Miguel-S-T/Miguel-S-T/blob/main/assets/wave.gif" width="30px"></h1>
-<h3 align="left">I am a Software Developer based in Lisbon, Portugal, with extensive experience in JavaScript and a specialization in frameworks such as React, Angular, and Node.js for backend development.</br></br> Passionate about web development, I thrive on transforming ideas into interactive, high-performance digital experiences. </br></br> I focus on designing and developing websites and web applications that are fast, responsive, and accessible to all users.</br></h3>
+<h4 align="left">I am a Software Developer based in Lisbon, Portugal, with extensive experience in JavaScript and a specialization in frameworks such as React, Angular, and Node.js for backend development.</br></br> Passionate about web development, I thrive on transforming ideas into interactive, high-performance digital experiences. </br></br> I focus on designing and developing websites and web applications that are fast, responsive, and accessible to all users.</br></h4>
 </br>
 <div align="center"><img src="https://github.com/Miguel-S-T/Miguel-S-T/blob/main/assets/coding1.gif" width="100%" height="60%"></div>
 
