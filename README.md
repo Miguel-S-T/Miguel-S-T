@@ -12,7 +12,7 @@
 
 ## Connect:
 <div align="center">
-     <a href="https://migueltm.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-%23E0E0E0.svg?style=for-the-badge&logo=world-wide-web&logoColor=%23212121" alt="Website Badge"/></a>
+     <a href="https://migueltm.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-%23E0E0E0.svg?style=for-the-badge&logo=google-chrome&logoColor=%23212121" alt="Website Badge"/></a>
      <a href="https://www.linkedin.com/in/miguel-tom%C3%A9-ab2963165/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF"/></a>
     <a target="_blank" rel="noopener noreferrer" href="mailto:this.mig.tome@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23F5F5F5.svg?style=for-the-badge&logo=gmail&logoColor=%23D93025"/></a>
 </div>
